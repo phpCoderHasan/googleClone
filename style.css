@@ -7,7 +7,7 @@ body{
     color: rgb(107, 106, 106);
 }
 
-a{
+a,i{
     text-decoration: none;
     color: rgb(107, 106, 106);
 }
